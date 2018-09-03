@@ -1,0 +1,140 @@
+.Login{
+    margin-left:940px;
+    width: 500px;
+    height: 400px;
+    background-color:grey;
+    
+   
+}
+.record{
+  
+    width: 500px;
+    height: 200px;
+    background-color:grey;
+    float:left;
+    
+
+}
+.profile{
+  width: 250px;height: 200px;
+  background-color: white;
+  margin-right:40%;
+  margin-left:40%;
+
+}
+.body{
+  width: 100%;
+  height: 100%;
+  background-image: url("http://kodes.in/wp-content/uploads/2017/05/742b7f1be85037838973443e21b8e114-1.jpg");
+}
+.profile1{
+  margin-left:940px;
+    width: 500px;
+    height: 400px;
+    background-color:grey;
+ 
+
+}
+.myButton{
+    display:inline-block;
+    height:auto;
+    width:auto;
+    border-radius :7px;
+    border: 1px solid lightblue;
+     margin:3px 5px;
+}
+.user1{
+  width:20%;
+  height:10%;
+}
+.user2{
+  width:20%;
+  height:10%;
+}
+.profile2{
+  width: 120%;
+  height:90%;
+}
+.Register{
+  margin-left:940px;
+    width: 500px;
+    height: 500px;
+    background-color:grey;
+  
+}
+h1{
+  color: white;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding-top: 0;
+  font-family: Helvetica Neue, Helvetica;
+  background: azure;
+}
+
+h3 {
+  font-size: 18px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+form {
+  padding: 0 40px;
+}
+
+form input {
+  display: block;
+  width: 100%;
+  font-size: 20px;
+  padding: 5px 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+form input.error {
+  border-color: red;
+}
+
+form span.error {
+  color: red;
+}
+
+.hidden {
+  display: none;
+}
+.welcome{
+  margin-top:100px;
+  margin-left:600px;
+    width: 500px;
+    height: 200px;
+    background-color:grey;
+}
+
+form button {
+  display: block;
+  width: 100%;
+  appearance: none;
+  border-radius: 5px;
+  background-color: #84c00c;
+  color: #fff;
+  border: none;
+  font-size: 16px;
+  height: 40px;
+  margin-top: 30px;
+}
+
+form button:hover {
+  background-color: #669509;
+}
+.welcome{
+  text-align: center;
+}
+
+form button:disabled {
+  background-color: #dbf99f;
+  color: #333;
+}
